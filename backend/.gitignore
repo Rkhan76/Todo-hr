@@ -1,0 +1,30 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS specific
+.DS_Store
+
+# Editor specific
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Compiled files
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
